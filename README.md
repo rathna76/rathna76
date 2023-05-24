@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rathna1621@gmail.com
-- Thank yoi
+- Thank you
 
 <!---
 rathna76/rathna76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
